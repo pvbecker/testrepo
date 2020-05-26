@@ -1,5 +1,5 @@
 # Test Repo for git course
 
-![./dummy.png](LEARNING)
+![Dummy logo](/dummy.png)
 
 This is a test repository for a class on Git on GitHub
